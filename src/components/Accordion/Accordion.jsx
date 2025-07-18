@@ -30,6 +30,7 @@ export default function Accordion({ children, className }) {
     openItem,
     closeItem,
   };
+
   return (
     <AccordionContext.Provider value={contextValue}>
       <ul className={className}>{children}</ul>
