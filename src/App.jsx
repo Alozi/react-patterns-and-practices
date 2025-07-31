@@ -84,7 +84,7 @@ function App() {
           {(item) => <Place item={item} />}
         </SearchableList>
         <SearchableList items={["item 1", "item 2"]} itemKeyFn={(item) => item}>
-          {(item) => item}
+          {(item) => <p>{item}</p>}
         </SearchableList>
       </section>
     </main>
