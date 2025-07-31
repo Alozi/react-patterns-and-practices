@@ -1,8 +1,15 @@
-# React + Vite
+# React Patterns And Practices
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React Patterns And Practices web application built with React.
 
-Currently, two official plugins are available:
+![Screenshot with game](/public/screencapture.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project was created as part of the Udemy course [React - The Complete Guide 2024 (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
+
+The course was created by [Academind by Maximilian Schwarzmüller](https://www.udemy.com/user/academind/).
+
+## Run this project:
+
+### `npm install`
+
+### `npm run dev`
